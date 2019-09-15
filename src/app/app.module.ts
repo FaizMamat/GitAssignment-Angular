@@ -9,7 +9,7 @@ import { SecondPageComponent } from './second-page/second-page.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HomePageComponent
+    HomePageComponent,
     SecondPageComponent
   ],
   imports: [
